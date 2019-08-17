@@ -5,8 +5,9 @@
 ### *趋势*
 当数据长期增加或减少时，存在某种趋势。它不必是线性的。当它可能从增长趋势变为减少趋势时，有时我们会将趋势称为“改变方向”。如图2.2所示，抗糖尿病药物销售数据有一个趋势。
 
-### *Seasonal*
-A seasonal pattern occurs when a time series is affected by seasonal factors such as the time of the year or the day of the week. Seasonality is always of a fixed and known frequency. The monthly sales of antidiabetic drugs above shows seasonality which is induced partly by the change in the cost of the drugs at the end of the calendar year.
+### *季节性*
+当时间序列受季节性因素影响时会出现季节性模式，例如一年中的某个时间或一周中的某一天。季节性总具有固定且已知的频率。上述抗糖尿病药物的月度销售曲线显示出季节性，这种情况一部分原因是由于日历年末药物成本的变化所致。
+
 ### *Cyclic*
 A cycle occurs when the data exhibit rises and falls that are not of a fixed frequency. These fluctuations are usually due to economic conditions, and are often related to the “business cycle”. The duration of these fluctuations is usually at least 2 years.
 Many people confuse cyclic behaviour with seasonal behaviour, but they are really quite different. If the fluctuations are not of a fixed frequency then they are cyclic; if the frequency is unchanging and associated with some aspect of the calendar, then the pattern is seasonal. In general, the average length of cycles is longer than the length of a seasonal pattern, and the magnitudes of cycles tend to be more variable than the magnitudes of seasonal patterns.
