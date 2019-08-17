@@ -67,4 +67,4 @@ Rob J Hyndman 和 George Athanasopoulos
 > 该书的印刷版（[可从亚马逊和谷歌获得](https://otexts.com/fpp2/buy-a-print-or-downloadable-version.html)）最后更新于2018年5月8日。
 
 # 参考书目
-Wickham，H。（2016）。 ggplot2：用于数据分析的优雅图形（第2版）。斯普林格。 [[亚马逊]](http://amzn.com/331924275X?tag=otexts-20)
+Wickham, H.（2016. *ggplot2：用于数据分析的优雅图形*（第2版）. 斯普林格. [[亚马逊]](http://amzn.com/331924275X?tag=otexts-20)
