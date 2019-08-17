@@ -20,13 +20,13 @@ It automatically produces an appropriate plot of whatever you pass to it in the 
 In this case, it recognises `melsyd[,"Economy.Class"]` as a time series and produces a time plot.
 
 The time plot immediately reveals some interesting features.
+* There was a period in 1989 when no passengers were carried — this was due to an industrial dispute.
+* There was a period of reduced load in 1992. This was due to a trial in which some economy class seats were replaced by business class seats.
+* A large increase in passenger load occurred in the second half of 1991.
+* There are some large dips in load around the start of each year. These are due to holiday effects.
+* There is a long-term fluctuation in the level of the series which increases during 1987, decreases in 1989, and increases again through 1990 and 1991.
+* There are some periods of missing observations.
 
-There was a period in 1989 when no passengers were carried — this was due to an industrial dispute.
-There was a period of reduced load in 1992. This was due to a trial in which some economy class seats were replaced by business class seats.
-A large increase in passenger load occurred in the second half of 1991.
-There are some large dips in load around the start of each year. These are due to holiday effects.
-There is a long-term fluctuation in the level of the series which increases during 1987, decreases in 1989, and increases again through 1990 and 1991.
-There are some periods of missing observations.
 Any model will need to take all these features into account in order to effectively forecast the passenger load into the future.
 
 A simpler time series is shown in Figure [2.2](#fig_a10).
