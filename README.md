@@ -20,7 +20,7 @@ Monash University, Australia
     * 1.7 The statistical forecasting perspective
     * 1.8 Exercises
     * 1.9 Further reading
-* 2 Time series graphics
+* 2 (Time series graphics)[graphics.md]
 * 2.1 ts objects
 * 2.2 Time plots
 * 2.3 Time series patterns
