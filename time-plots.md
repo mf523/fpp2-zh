@@ -10,7 +10,7 @@ autoplot(melsyd[,"Economy.Class"]) +
   ylab("Thousands")
  Weekly economy passenger load on Ansett Airlines.
 ```
-<a name="ansett"></a>
+<a name="fig_ansett"></a>
 ![ansett-1](https://otexts.com/fpp2/fpp_files/figure-html/ansett-1.png)
 
 Figure 2.1: Weekly economy passenger load on Ansett Airlines.
@@ -38,7 +38,7 @@ autoplot(a10) +
   xlab("Year")
  Monthly sales of antidiabetic drugs in Australia.
 ```
-<a name="a10"></a>
+<a name="fig_a10"></a>
 ![a10-1](https://otexts.com/fpp2/fpp_files/figure-html/a10-1.png)
 
 Figure 2.2: Monthly sales of antidiabetic drugs in Australia.
