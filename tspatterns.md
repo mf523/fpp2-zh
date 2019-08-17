@@ -1,9 +1,10 @@
-# 2.3 Time series patterns
+＃2.3 时间序列模式
 
-In describing these time series, we have used words such as “trend” and “seasonal” which need to be defined more carefully.
+在描述这些时间序列时，我们使用了诸如“趋势”和“季节性”之类的词，这些词需要更仔细地定义。
 
-### *Trend*
-A trend exists when there is a long-term increase or decrease in the data. It does not have to be linear. Sometimes we will refer to a trend as “changing direction”, when it might go from an increasing trend to a decreasing trend. There is a trend in the antidiabetic drug sales data shown in Figure 2.2.
+### *趋势*
+当数据长期增加或减少时，存在某种趋势。它不必是线性的。当它可能从增长趋势变为减少趋势时，有时我们会将趋势称为“改变方向”。如图2.2所示，抗糖尿病药物销售数据有一个趋势。
+
 ### *Seasonal*
 A seasonal pattern occurs when a time series is affected by seasonal factors such as the time of the year or the day of the week. Seasonality is always of a fixed and known frequency. The monthly sales of antidiabetic drugs above shows seasonality which is induced partly by the change in the cost of the drugs at the end of the calendar year.
 ### *Cyclic*
