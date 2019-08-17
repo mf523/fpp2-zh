@@ -28,7 +28,8 @@ y <- ts(z, start=2003, frequency=12)
 Almost all of the data used in this book is already stored as `ts` objects. But if you want to work with your own data, you will need to use the `ts()` function before proceeding with the analysis.
 
 # Frequency of a time series
-The “frequency” is the number of observations before the seasonal pattern repeats. <sup><a name="fnref1">1</a></sup> When using the `ts()` function in R, the following choices should be used.
+<a name="fnref1"></a>
+The “frequency” is the number of observations before the seasonal pattern repeats. <sup>[1](#fnref1)</a></sup> When using the `ts()` function in R, the following choices should be used.
 
 **Data** | **frequency**
 ---------|--------------
@@ -46,4 +47,4 @@ In [chapter 11](advanced.md) we will look at handling these types of multiple se
 
 ------------------------
 <a name="fn1"></a>
-1. This is the opposite of the definition of frequency in physics, or in Fourier analysis, where this would be called the “period”.<a name="fnref1">↩</a>
+1. This is the opposite of the definition of frequency in physics, or in Fourier analysis, where this would be called the “period”.[↩](#fnref1)
