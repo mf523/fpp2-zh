@@ -20,18 +20,18 @@ Monash University, Australia
     * 1.7 The statistical forecasting perspective
     * 1.8 Exercises
     * 1.9 Further reading
-* 2 (Time series graphics)[graphics.md]
-* 2.1 ts objects
-* 2.2 Time plots
-* 2.3 Time series patterns
-* 2.4 Seasonal plots
-* 2.5 Seasonal subseries plots
-* 2.6 Scatterplots
-* 2.7 Lag plots
-* 2.8 Autocorrelation
-* 2.9 White noise
-* 2.10 Exercises
-* 2.11 Further reading
+* 2 [Time series graphics](graphics.md)
+   * 2.1 ts objects
+   * 2.2 Time plots
+   * 2.3 Time series patterns
+   * 2.4 Seasonal plots
+   * 2.5 Seasonal subseries plots
+   * 2.6 Scatterplots
+   * 2.7 Lag plots
+   * 2.8 Autocorrelation
+   * 2.9 White noise
+   * 2.10 Exercises
+   * 2.11 Further reading
 * 3 The forecaster’s toolbox
 * 3.1 Some simple forecasting methods
 * 3.2 Transformations and adjustments
