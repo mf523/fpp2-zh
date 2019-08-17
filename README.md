@@ -11,15 +11,15 @@ Monash University, Australia
 
 * [Preface](preface.md)
 * 1 [Getting started](intro.md)
-    * 1.1 What can be forecast?
-    * 1.2 Forecasting, planning and goals
-    * 1.3 Determining what to forecast
-    * 1.4 Forecasting data and methods
-    * 1.5 Some case studies
-    * 1.6 The basic steps in a forecasting task
-    * 1.7 The statistical forecasting perspective
-    * 1.8 Exercises
-    * 1.9 Further reading
+   * 1.1 What can be forecast?
+   * 1.2 Forecasting, planning and goals
+   * 1.3 Determining what to forecast
+   * 1.4 Forecasting data and methods
+   * 1.5 Some case studies
+   * 1.6 The basic steps in a forecasting task
+   * 1.7 The statistical forecasting perspective
+   * 1.8 Exercises
+   * 1.9 Further reading
 * 2 [Time series graphics](graphics.md)
    * 2.1 ts objects
    * 2.2 Time plots
@@ -32,15 +32,15 @@ Monash University, Australia
    * 2.9 White noise
    * 2.10 Exercises
    * 2.11 Further reading
-* 3 The forecaster’s toolbox
-* 3.1 Some simple forecasting methods
-* 3.2 Transformations and adjustments
-* 3.3 Residual diagnostics
-* 3.4 Evaluating forecast accuracy
-* 3.5 Prediction intervals
-* 3.6 The forecast package in R
-* 3.7 Exercises
-* 3.8 Further reading
+* 3 [The forecaster’s toolbox](toolbox.md)
+   * 3.1 Some simple forecasting methods
+   * 3.2 Transformations and adjustments
+   * 3.3 Residual diagnostics
+   * 3.4 Evaluating forecast accuracy
+   * 3.5 Prediction intervals
+   * 3.6 The forecast package in R
+   * 3.7 Exercises
+   * 3.8 Further reading
 4 Judgmental forecasts
 4.1 Beware of limitations
 4.2 Key principles
