@@ -38,52 +38,11 @@ Monthly	| 12
 Weekly | 52
 
 
-Actually, there are not  
-52
-  weeks in a year, but  
-365.25
-/
-7
-=
-52.18
-  on average, allowing for a leap year every fourth year. But most functions which use ts objects require integer frequency.
+Actually, there are not 52 weeks in a year, but 365.25/7 = 52.18 on average, allowing for a leap year every fourth year. But most functions which use ts objects require integer frequency.
 
-If the frequency of observations is greater than once per week, then there is usually more than one way of handling the frequency. For example, data with daily observations might have a weekly seasonality (frequency 
-=
-7
- ) or an annual seasonality (frequency 
-=
-365.25
- ). Similarly, data that are observed every minute might have an hourly seasonality (frequency 
-=
-60
- ), a daily seasonality (frequency 
-=
-24
-×
-60
-=
-1440
- ), a weekly seasonality (frequency 
-=
-24
-×
-60
-×
-7
-=
-10080
- ) and an annual seasonality (frequency 
-=
-24
-×
-60
-×
-365.25
-=
-525960
- ). If you want to use a ts object, then you need to decide which of these is the most important.
+If the frequency of observations is greater than once per week, then there is usually more than one way of handling the frequency. For example, data with daily observations might have a weekly seasonality (frequency = 7) or an annual seasonality (frequency = 365.25). Similarly, data that are observed every minute might have an hourly seasonality (frequency = 60), a daily seasonality (frequency = 24 × 60 = 1440), a weekly seasonality (frequency = 24 × 60 × 7 = 10080) and an annual seasonality (frequency = 24 × 60 × 365.25 = 525960). If you want to use a ts object, then you need to decide which of these is the most important.
 
-In chapter 11 we will look at handling these types of multiple seasonality, without having to choose just one of the frequencies.
+In [chapter 11](advanced.md) we will look at handling these types of multiple seasonality, without having to choose just one of the frequencies.
 
-This is the opposite of the definition of frequency in physics, or in Fourier analysis, where this would be called the “period”.↩
+------------------------
+1. This is the opposite of the definition of frequency in physics, or in Fourier analysis, where this would be called the “period”.↩
