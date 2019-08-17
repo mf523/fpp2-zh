@@ -1,7 +1,7 @@
 # 2.2 Time plots
 For time series data, the obvious graph to start with is a time plot.
 That is, the observations are plotted against the time of observation, with consecutive observations joined by straight lines.
-Figure [2.1](#fig_anstt) below shows the weekly economy passenger load on Ansett Airlines between Australia’s two largest cities.
+Figure [2.1](#fig_ansett) below shows the weekly economy passenger load on Ansett Airlines between Australia’s two largest cities.
 
 ```R
 autoplot(melsyd[,"Economy.Class"]) +
