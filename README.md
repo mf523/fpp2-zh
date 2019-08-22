@@ -41,48 +41,48 @@ Monash University, Australia
    * 3.6 The forecast package in R
    * 3.7 Exercises
    * 3.8 Further reading
-4 Judgmental forecasts
-4.1 Beware of limitations
-4.2 Key principles
-4.3 The Delphi method
-4.4 Forecasting by analogy
-4.5 Scenario forecasting
-4.6 New product forecasting
-4.7 Judgmental adjustments
-4.8 Further reading
-5 Time series regression models
-5.1 The linear model
-5.2 Least squares estimation
-5.3 Evaluating the regression model
-5.4 Some useful predictors
-5.5 Selecting predictors
-5.6 Forecasting with regression
-5.7 Matrix formulation
-5.8 Nonlinear regression
-5.9 Correlation, causation and forecasting
-5.10 Exercises
-5.11 Further reading
-6 Time series decomposition
-6.1 Time series components
-6.2 Moving averages
-6.3 Classical decomposition
-6.4 X11 decomposition
-6.5 SEATS decomposition
-6.6 STL decomposition
-6.7 Measuring strength of trend and seasonality
-6.8 Forecasting with decomposition
-6.9 Exercises
-6.10 Further reading
-7 Exponential smoothing
-7.1 Simple exponential smoothing
-7.2 Trend methods
-7.3 Holt-Winters’ seasonal method
-7.4 A taxonomy of exponential smoothing methods
-7.5 Innovations state space models for exponential smoothing
-7.6 Estimation and model selection
-7.7 Forecasting with ETS models
-7.8 Exercises
-7.9 Further reading
+* 4 Judgmental forecasts
+   * 4.1 Beware of limitations
+   * 4.2 Key principles
+   * 4.3 The Delphi method
+   * 4.4 Forecasting by analogy
+   * 4.5 Scenario forecasting
+   * 4.6 New product forecasting
+   * 4.7 Judgmental adjustments
+   * 4.8 Further reading
+* 5 Time series regression models
+   * 5.1 The linear model
+   * 5.2 Least squares estimation
+   * 5.3 Evaluating the regression model
+   * 5.4 Some useful predictors
+   * 5.5 Selecting predictors
+   * 5.6 Forecasting with regression
+   * 5.7 Matrix formulation
+   * 5.8 Nonlinear regression
+   * 5.9 Correlation, causation and forecasting
+   * 5.10 Exercises
+   * 5.11 Further reading
+* 6 Time series decomposition
+   * 6.1 Time series components
+   * 6.2 Moving averages
+   * 6.3 Classical decomposition
+   * 6.4 X11 decomposition
+   * 6.5 SEATS decomposition
+   * 6.6 STL decomposition
+   * 6.7 Measuring strength of trend and seasonality
+   * 6.8 Forecasting with decomposition
+   * 6.9 Exercises
+   * 6.10 Further reading
+* 7 Exponential smoothing
+   * 7.1 Simple exponential smoothing
+   * 7.2 Trend methods
+   * 7.3 Holt-Winters’ seasonal method
+   * 7.4 A taxonomy of exponential smoothing methods
+   * 7.5 Innovations state space models for exponential smoothing
+   * 7.6 Estimation and model selection
+   * 7.7 Forecasting with ETS models
+   * 7.8 Exercises
+   * 7.9 Further reading
 8 ARIMA models
 8.1 Stationarity and differencing
 8.2 Backshift notation
