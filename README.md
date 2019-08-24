@@ -8,6 +8,7 @@ Monash University, Australia
 ![fpp2_cover](https://otexts.com/fpp2/fpp2_cover.jpg)
 
 
+### Contents
 
 * [Preface](preface.md)
 * 1 [Getting started](intro.md)
@@ -83,61 +84,61 @@ Monash University, Australia
    * 7.7 Forecasting with ETS models
    * 7.8 Exercises
    * 7.9 Further reading
-8 ARIMA models
-8.1 Stationarity and differencing
-8.2 Backshift notation
-8.3 Autoregressive models
-8.4 Moving average models
-8.5 Non-seasonal ARIMA models
-8.6 Estimation and order selection
-8.7 ARIMA modelling in R
-8.8 Forecasting
-8.9 Seasonal ARIMA models
-8.10 ARIMA vs ETS
-8.11 Exercises
-8.12 Further reading
-9 Dynamic regression models
-9.1 Estimation
-9.2 Regression with ARIMA errors in R
-9.3 Forecasting
-9.4 Stochastic and deterministic trends
-9.5 Dynamic harmonic regression
-9.6 Lagged predictors
-9.7 Exercises
-9.8 Further reading
-10 Forecasting hierarchical or grouped time series
-10.1 Hierarchical time series
-10.2 Grouped time series
-10.3 The bottom-up approach
-10.4 Top-down approaches
-10.5 Middle-out approach
-10.6 Mapping matrices
-10.7 The optimal reconciliation approach
-10.8 Exercises
-10.9 Further reading
-11 Advanced forecasting methods
-11.1 Complex seasonality
-11.2 Vector autoregressions
-11.3 Neural network models
-11.4 Bootstrapping and bagging
-11.5 Exercises
-11.6 Further reading
-12 Some practical forecasting issues
-12.1 Weekly, daily and sub-daily data
-12.2 Time series of counts
-12.3 Ensuring forecasts stay within limits
-12.4 Forecast combinations
-12.5 Prediction intervals for aggregates
-12.6 Backcasting
-12.7 Very long and very short time series
-12.8 Forecasting on training and test sets
-12.9 Dealing with missing values and outliers
-12.10 Further reading
-Appendix: Using R
-Appendix: For instructors
-Appendix: Reviews
-Translations
-About the authors
-Buy a print or downloadable version
-Help
-Bibliography
+* 8 ARIMA models
+   * 8.1 Stationarity and differencing
+   * 8.2 Backshift notation
+   * 8.3 Autoregressive models
+   * 8.4 Moving average models
+   * 8.5 Non-seasonal ARIMA models
+   * 8.6 Estimation and order selection
+   * 8.7 ARIMA modelling in R
+   * 8.8 Forecasting
+   * 8.9 Seasonal ARIMA models
+   * 8.10 ARIMA vs ETS
+   * 8.11 Exercises
+   * 8.12 Further reading
+* 9 Dynamic regression models
+   * 9.1 Estimation
+   * 9.2 Regression with ARIMA errors in R
+   * 9.3 Forecasting
+   * 9.4 Stochastic and deterministic trends
+   * 9.5 Dynamic harmonic regression
+   * 9.6 Lagged predictors
+   * 9.7 Exercises
+   * 9.8 Further reading
+* 10 Forecasting hierarchical or grouped time series
+   * 10.1 Hierarchical time series
+   * 10.2 Grouped time series
+   * 10.3 The bottom-up approach
+   * 10.4 Top-down approaches
+   * 10.5 Middle-out approach
+   * 10.6 Mapping matrices
+   * 10.7 The optimal reconciliation approach
+   * 10.8 Exercises
+   * 10.9 Further reading
+* 11 Advanced forecasting methods
+   * 11.1 Complex seasonality
+   * 11.2 Vector autoregressions
+   * 11.3 Neural network models
+   * 11.4 Bootstrapping and bagging
+   * 11.5 Exercises
+   * 11.6 Further reading
+* 12 Some practical forecasting issues
+   * 12.1 Weekly, daily and sub-daily data
+   * 12.2 Time series of counts
+   * 12.3 Ensuring forecasts stay within limits
+   * 12.4 Forecast combinations
+   * 12.5 Prediction intervals for aggregates
+   * 12.6 Backcasting
+   * 12.7 Very long and very short time series
+   * 12.8 Forecasting on training and test sets
+   * 12.9 Dealing with missing values and outliers
+   * 12.10 Further reading
+* Appendix: Using R
+* Appendix: For instructors
+* Appendix: Reviews
+* Translations
+* About the authors
+* Buy a print or downloadable version
+* Help
+* Bibliography
