@@ -42,7 +42,7 @@ Time series models used for forecasting include decomposition models, exponentia
 
 Predictor variables are often useful in time series forecasting. For example, suppose we wish to forecast the hourly electricity demand (ED) of a hot region during the summer period. A model with predictor variables might be of the form
 
-![](Xnip2019-08-25_02-13-15.jpg)
+ED = f ( current temperature, strength of economy, population, time of day, day of week, error ) .
 
 The relationship is not exact — there will always be changes in electricity demand that cannot be accounted for by the predictor variables. The “error” term on the right allows for random variation and the effects of relevant variables that are not included in the model. We call this an explanatory model because it helps explain what causes the variation in electricity demand.
 
