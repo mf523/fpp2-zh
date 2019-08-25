@@ -18,7 +18,7 @@ Monash University, Australia
    * 1.4 [Forecasting data and methods](data-methods.md)
    * 1.5 [Some case studies](case-studies.md)
    * 1.6 [The basic steps in a forecasting task](basic-steps.md)
-   * 1.7 [The statistical forecasting perspective](perspectives.md)
+   * 1.7 [The statistical forecasting perspective](perspective.md)
    * 1.8 Exercises
    * 1.9 Further reading
 * 2 [Time series graphics](graphics.md)
