@@ -20,7 +20,7 @@ Monash University, Australia
    * 1.6 [The basic steps in a forecasting task](basic-steps.md)
    * 1.7 [The statistical forecasting perspective](perspective.md)
    * 1.8 [Exercises](intro-exercises.md)
-   * 1.9 Further reading
+   * 1.9 [Further reading](intro-readings.md)
 * 2 [Time series graphics](graphics.md)
    * 2.1 [ts objects](ts-objects.md)
    * 2.2 Time plots
