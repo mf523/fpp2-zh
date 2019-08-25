@@ -7,8 +7,9 @@ Monash University, Australia
 
 ![fpp2_cover](https://otexts.com/fpp2/fpp2_cover.jpg)
 
+----
 
-### Contents
+## Contents
 
 * [Preface](preface.md)
 * 1 [Getting started](intro.md)
