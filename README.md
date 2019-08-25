@@ -15,8 +15,8 @@ Monash University, Australia
    * 1.1 What can be forecast?
    * 1.2 Forecasting, planning and goals
    * 1.3 Determining what to forecast
-   * 1.4 Forecasting data and methods
-   * 1.5 Some case studies
+   * 1.4 [Forecasting data and methods](data-methods.md)
+   * 1.5 [Some case studies](case-studies.md)
    * 1.6 The basic steps in a forecasting task
    * 1.7 The statistical forecasting perspective
    * 1.8 Exercises
