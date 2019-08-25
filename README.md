@@ -1,6 +1,6 @@
 # 预测：原理与实践
 
-### Rob J Hyndman and George Athanasopoulos
+### Rob J Hyndman 和 George Athanasopoulos
 
 澳大利亚莫纳什大学
 
@@ -9,10 +9,10 @@
 
 ----
 
-## Contents
+## 目录
 
 * [前言](preface.md)
-* 1 [Getting started](intro.md)
+* 1 [入门](intro.md)
    * 1.1 What can be forecast?
    * 1.2 Forecasting, planning and goals
    * 1.3 Determining what to forecast
