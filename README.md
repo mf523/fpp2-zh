@@ -11,7 +11,7 @@
 
 ## Contents
 
-* [Preface](preface.md)
+* [前言](preface.md)
 * 1 [Getting started](intro.md)
    * 1.1 What can be forecast?
    * 1.2 Forecasting, planning and goals
