@@ -5,12 +5,13 @@ The following four cases are from our consulting practice and demonstrate differ
 ## Case 1
 The client was a large company manufacturing disposable tableware such as napkins and paper plates. They needed forecasts of each of hundreds of items every month. The time series data showed a range of patterns, some with trends, some seasonal, and some with neither. At the time, they were using their own software, written in-house, but it often produced forecasts that did not seem sensible. The methods that were being used were the following:
 
-average of the last 12 months data;
-average of the last 6 months data;
-prediction from a straight line regression over the last 12 months;
-prediction from a straight line regression over the last 6 months;
-prediction obtained by a straight line through the last observation with slope equal to the average slope of the lines connecting last year’s and this year’s values;
-prediction obtained by a straight line through the last observation with slope equal to the average slope of the lines connecting last year’s and this year’s values, where the average is taken only over the last 6 months.
+1. average of the last 12 months data;
+1. average of the last 6 months data;
+1. prediction from a straight line regression over the last 12 months;
+1. prediction from a straight line regression over the last 6 months;
+1. prediction obtained by a straight line through the last observation with slope equal to the average slope of the lines connecting last year’s and this year’s values;
+1. prediction obtained by a straight line through the last observation with slope equal to the average slope of the lines connecting last year’s and this year’s values, where the average is taken only over the last 6 months.
+
 They required us to tell them what was going wrong and to modify the software to provide more accurate forecasts. The software was written in COBOL, making it difficult to do any sophisticated numerical computation.
 
 ## Case 2
