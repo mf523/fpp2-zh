@@ -2,7 +2,7 @@
 
 ### Rob J Hyndman and George Athanasopoulos
 
-Monash University, Australia
+澳大利亚莫纳什大学
 
 
 ![fpp2_cover](https://otexts.com/fpp2/fpp2_cover.jpg)
