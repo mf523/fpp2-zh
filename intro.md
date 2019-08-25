@@ -1,20 +1,18 @@
-# Chapter 1 Getting started
+# 第一章 入门
 
-Forecasting has fascinated people for thousands of years, sometimes being considered a sign of divine inspiration, and sometimes being seen as a criminal activity. The Jewish prophet Isaiah wrote in about 700 BC
+数千年来，预测一直让人着迷，有时被认为是神的启示的标志，有时被视为犯罪活动。犹太预言家以赛亚在大约公元前700年写道
 
-> Tell us what the future holds, so we may know that you are gods.
-> (Isaiah 41:23)
+> 告诉我们未来将会怎样，借此我们可以知道你是神。
+> （以赛亚书41:23）
 
-One hundred years later, in ancient Babylon, forecasters would foretell the future based on the distribution of maggots in a rotten sheep’s liver. By 300 BC, people wanting forecasts would journey to Delphi in Greece to consult the Oracle, who would provide her predictions while intoxicated by ethylene vapours. Forecasters had a tougher time under the emperor Constantine, who issued a decree in AD357 forbidding anyone “to consult a soothsayer, a mathematician, or a forecaster  
-…
-  May curiosity to foretell the future be silenced forever.” A similar ban on forecasting occurred in England in 1736 when it became an offence to defraud by charging money for predictions. The punishment was three months’ imprisonment with hard labour!
+一百年后，在古巴比伦，预测者将根据羊肝脏中蛆的分布来预测未来。到公元前300年，想要进行预测的人们将前往希腊的德尔斐咨询先知，先知将在乙烯蒸汽陶醉的同时祭出她的预测。在康斯坦丁皇帝的统治下，预言者经历了更艰难的时期，康斯坦丁在公元357年颁布了一项法令，禁止任何人咨询占卜者、数学家或预言者 ...... 出于好奇地预言未来可能会被永远压制。“ 1736年英格兰发生了类似的预言禁令，当时通过收取费用的预测会导致诈骗罪。惩罚是三个月的监禁和艰苦的劳动！
 
-The varying fortunes of forecasters arise because good forecasts can seem almost magical, while bad forecasts may be dangerous. Consider the following famous predictions about computing.
+预报员的不同命运之所以出现是因为良好的预测看起来几乎是魔法，而糟糕的预报可能是危险的。考虑以下有关计算的着名预测。
 
-* I think there is a world market for maybe five computers. (Chairman of IBM, 1943)
-* Computers in the future may weigh no more than 1.5 tons. (Popular Mechanics, 1949)
-* There is no reason anyone would want a computer in their home. (President, DEC, 1977)
+* 我认为世界市场可能需要五台计算机。 （IBM主席，1943年）
+* 未来的计算机重量可能不超过1.5吨。 （Popular Mechanics，1949）
+* 没有理由表明有人想在家中安装电脑。 （DEC总裁，1977年）
 
-The last of these was made only three years before IBM produced the first personal computer. Not surprisingly, you can no longer buy a DEC computer. Forecasting is obviously a difficult activity, and businesses that do it well have a big advantage over those whose forecasts fail.
+最后预言一个是在IBM生产第一台个人计算机之前仅三年。毫不奇怪，您再也买不到DEC计算机了。预测显然是一项艰难的活动，做得好的企业比那些预测失败的企业有很大的优势。
 
-In this book, we will explore the most reliable methods for producing forecasts. The emphasis will be on methods that are replicable and testable, and have been shown to work.
+在本书中，我们将探索最可靠的预测方法。重点将放在可复制和可测试，并且已被证明有效的方法上。
